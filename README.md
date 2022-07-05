@@ -2,6 +2,18 @@
 
 ### 函数、定义域、值域和垂线检验 <a href="#han-shu-ding-yi-yu-zhi-yu-he-chui-xian-jian-yan" id="han-shu-ding-yi-yu-zhi-yu-he-chui-xian-jian-yan"></a>
 
+**函数**是将一个对象转化为另一个对象的规则。起始对象称为输入，来自称为**定义域**的集合。返回对象称为输出，来自称为**值域**的集合。
+
+**一个函数必须给每一个有效的输入指定唯一一个输出。**
+
+三种常见的定义域判别情况：
+
+* 分数的分母不能为0
+* 不能取一个负数的平方根（四次、六次根等等）
+* 不能取一个负数或0的对数
+
+由于函数必须是一个x，唯一的y与之对应，因此可以通过**垂线检验**，如果函数图像在垂线上有多于1个交点，则它不是函数。
+
 ### 反函数和水平线检验 <a href="#fan-han-shu-he-shui-ping-xian-jian-yan" id="fan-han-shu-he-shui-ping-xian-jian-yan"></a>
 
 ### 函数的复合 <a href="#han-shu-de-fu-he" id="han-shu-de-fu-he"></a>
