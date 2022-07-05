@@ -24,6 +24,8 @@
 
 函数与反函数关于$$y=x$$**对称**。
 
+![](.gitbook/assets/image.png)
+
 思考：为什么函数与反函数存在对称性，本质原因是**坐标轴进行旋转**。
 
 ### 函数的复合 <a href="#han-shu-de-fu-he" id="han-shu-de-fu-he"></a>
