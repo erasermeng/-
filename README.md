@@ -30,6 +30,10 @@
 
 ### 函数的复合 <a href="#han-shu-de-fu-he" id="han-shu-de-fu-he"></a>
 
+复合函数比较简单，没啥好记录的，就是$$f(g(x))$$​
+
+$$y=x^x^x$$应该看做​$$y=x^(x^x)$$​而不是$$y=(x^x)^x$$，因为后者等价于$$y=x^(x^2)$$。​
+
 ### 奇函数与偶函数 <a href="#qi-han-shu-yu-ou-han-shu" id="qi-han-shu-yu-ou-han-shu"></a>
 
 ### 线性函数与多项式、有理函数、指数函数、对数函数图像 <a href="#xian-xing-han-shu-yu-duo-xiang-shi-you-li-han-shu-zhi-shu-han-shu-dui-shu-han-shu-tu-xiang" id="xian-xing-han-shu-yu-duo-xiang-shi-you-li-han-shu-zhi-shu-han-shu-dui-shu-han-shu-tu-xiang"></a>
