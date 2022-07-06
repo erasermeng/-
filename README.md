@@ -57,7 +57,7 @@ $$f(x)=0$$​既是奇函数，又是偶函数。
 
 m为**斜率**，m的**绝对值越大**，直线越陡（可以想象为上山下山）
 
-![](<.gitbook/assets/image (5) (1).png>)
+![](<.gitbook/assets/image (5) (1) (1).png>)
 
 b为y轴的**截距**。
 
@@ -89,7 +89,7 @@ m>0，函数单增；m<0，函数单减。
 
 有理函数本身变化多样，以下是p为1的情况：
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 
 #### 指数函数与对数函数​
 
@@ -102,3 +102,7 @@ m>0，函数单增；m<0，函数单减。
 ****![](<.gitbook/assets/image (6).png>)****
 
 ### 如何处理绝对值 <a href="#undefined" id="undefined"></a>
+
+绝对值函数图像，可以将原函数图像基于x轴上翻得到：
+
+![](<.gitbook/assets/image (5).png>)
