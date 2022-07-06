@@ -36,6 +36,18 @@ $$y=x^x^x$$应该看做​$$y=x^(x^x)$$​而不是$$y=(x^x)^x$$，因为后者�
 
 ### 奇函数与偶函数 <a href="#qi-han-shu-yu-ou-han-shu" id="qi-han-shu-yu-ou-han-shu"></a>
 
+**奇函数**：$$f(-x)=-f(x)$$​
+
+**偶函数**：$$f(-x)=f(x)$$​
+
+前提条件：**定义域要关于原点对称**，否则是非奇非偶函数。
+
+$$f(x)=0$$​既是奇函数，又是偶函数。
+
+奇函数在图像上关于原点对称，偶函数关于Y轴对称。
+
+![](<.gitbook/assets/image (1).png>)
+
 ### 线性函数与多项式、有理函数、指数函数、对数函数图像 <a href="#xian-xing-han-shu-yu-duo-xiang-shi-you-li-han-shu-zhi-shu-han-shu-dui-shu-han-shu-tu-xiang" id="xian-xing-han-shu-yu-duo-xiang-shi-you-li-han-shu-zhi-shu-han-shu-dui-shu-han-shu-tu-xiang"></a>
 
 ### 如何处理绝对值 <a href="#undefined" id="undefined"></a>
