@@ -24,7 +24,7 @@
 
 函数与反函数关于$$y=x$$**对称**。
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 
 思考：为什么函数与反函数存在对称性，本质原因是**坐标轴进行旋转**。
 
@@ -47,7 +47,7 @@ $$f(x)=0$$​既是奇函数，又是偶函数。
 
 奇函数在图像上关于原点对称，偶函数关于Y轴对称。
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 ### 线性函数与多项式、有理函数、指数函数、对数函数图像 <a href="#xian-xing-han-shu-yu-duo-xiang-shi-you-li-han-shu-zhi-shu-han-shu-dui-shu-han-shu-tu-xiang" id="xian-xing-han-shu-yu-duo-xiang-shi-you-li-han-shu-zhi-shu-han-shu-dui-shu-han-shu-tu-xiang"></a>
 
@@ -92,5 +92,13 @@ m>0，函数单增；m<0，函数单减。
 ![](<.gitbook/assets/image (5).png>)
 
 #### 指数函数与对数函数​
+
+指数函数y轴截距为1，**当a>1时单增，a<1时单减**（a>0）
+
+![](.gitbook/assets/image.png)
+
+**指数函数与对数函数互为反函数**
+
+****![](<.gitbook/assets/image (6).png>)****
 
 ### 如何处理绝对值 <a href="#undefined" id="undefined"></a>
