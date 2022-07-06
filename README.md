@@ -57,13 +57,13 @@ $$f(x)=0$$​既是奇函数，又是偶函数。
 
 m为**斜率**，m的**绝对值越大**，直线越陡（可以想象为上山下山）
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (5).png>)
 
 b为y轴的**截距**。
 
 m>0，函数单增；m<0，函数单减。
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (4).png>)
 
 点斜式：$$y-y_0=m(x-x_0)$$​
 
@@ -77,6 +77,10 @@ m>0，函数单增；m<0，函数单减。
 
 #### 多项式函数
 
-多项式的一般形式：$$p(x)=a_nx^n+a_{n-1}x^{n-1}+\cdots+a_1x+a_0$$​
+多项式的一般形式：$$p(x)=a_nx^n+a_{n-1}x^{n-1}+\cdots+a_1x+a_0$$
+
+所以多项式的图像两端取决于高次幂的图像：
+
+![](<.gitbook/assets/image (3).png>)​
 
 ### 如何处理绝对值 <a href="#undefined" id="undefined"></a>
