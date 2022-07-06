@@ -16,7 +16,7 @@
 
 ### 反函数和水平线检验 <a href="#fan-han-shu-he-shui-ping-xian-jian-yan" id="fan-han-shu-he-shui-ping-xian-jian-yan"></a>
 
-给定一个函数f，在f的值域中选择y，在理想的情况下仅有一个x值满足$$f(x)=y$$​。如果对于值域中的每一个y都成立，就可以定义个新的函数，从y出发，仅有一个x满足$$f(x)=y$$，则新的函数记为**反函数**，写作​$$f^-1$$。
+给定一个函数f，在f的值域中选择y，在理想的情况下仅有一个x值满足$$f(x)=y$$​。如果对于值域中的每一个y都成立，就可以定义个新的函数，从y出发，仅有一个x满足$$f(x)=y$$，则新的函数记为**反函数**，写作​$$f^{-1}$$。
 
 根据反函数的性质，每一个y都只有一个x与它对应，可以沿着函数图像做**水平线检验**，如果交点超过1个，则函数没有反函数。
 
@@ -32,7 +32,8 @@
 
 复合函数比较简单，没啥好记录的，就是$$f(g(x))$$​
 
-$$y=x^x^x$$应该看做​$$y=x^(x^x)$$​而不是$$y=(x^x)^x$$，因为后者等价于$$y=x^(x^2)$$。​
+$$y=x^{x^x}$$应该看做​​$$y=x^{(x^{x})}$$而不是\
+$$y=(x^x)^x$$，因为后者等价于$$y=x^{x^2}$$。​
 
 ### 奇函数与偶函数 <a href="#qi-han-shu-yu-ou-han-shu" id="qi-han-shu-yu-ou-han-shu"></a>
 
@@ -49,5 +50,33 @@ $$f(x)=0$$​既是奇函数，又是偶函数。
 ![](<.gitbook/assets/image (1).png>)
 
 ### 线性函数与多项式、有理函数、指数函数、对数函数图像 <a href="#xian-xing-han-shu-yu-duo-xiang-shi-you-li-han-shu-zhi-shu-han-shu-dui-shu-han-shu-tu-xiang" id="xian-xing-han-shu-yu-duo-xiang-shi-you-li-han-shu-zhi-shu-han-shu-dui-shu-han-shu-tu-xiang"></a>
+
+#### 线性函数
+
+斜截式：$$f(x)=mx+b$$​
+
+m为**斜率**，m的**绝对值越大**，直线越陡（可以想象为上山下山）
+
+![](<.gitbook/assets/image (4).png>)
+
+b为y轴的**截距**。
+
+m>0，函数单增；m<0，函数单减。
+
+![](<.gitbook/assets/image (3).png>)
+
+点斜式：$$y-y_0=m(x-x_0)$$​
+
+两点求斜率：$$\frac{y_2-y_1}{x_2-x_1}$$​
+
+#### 幂函数
+
+![](<.gitbook/assets/image (2).png>)
+
+对于幂函数来说，奇次幂之间的图像很相似，偶次幂之间的图像很相似。
+
+#### 多项式函数
+
+多项式的一般形式：$$p(x)=a_nx^n+a_{n-1}x^{n-1}+\cdots+a_1x+a_0$$​
 
 ### 如何处理绝对值 <a href="#undefined" id="undefined"></a>
